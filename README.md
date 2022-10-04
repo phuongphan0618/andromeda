@@ -1,3 +1,3 @@
 # andromeda
-## Editiing the file 
+## Editing the file 
 This is an automated message
